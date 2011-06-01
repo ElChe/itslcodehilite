@@ -1,0 +1,2 @@
+serviceClass: com.trovag.client.GreetingService
+path: E1F100F49A531AD373B6389A638C7E64.gwt.rpc
